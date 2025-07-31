@@ -32,7 +32,7 @@ int main() {
 
 
 
-////to test the execution given number of cars or rows(Y) and random values for vi, vf, and t will be given by the program
+////to test the execution time, given number of cars or rows(Y) and random values for vi, vf, and t will be given by the program
 //#include <stdio.h>
 //#include <stdlib.h>
 //#include <time.h>
