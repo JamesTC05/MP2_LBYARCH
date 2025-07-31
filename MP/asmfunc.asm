@@ -38,13 +38,13 @@ loop:
     mulss xmm3, xmm5        ; vi in m/s
     mulss xmm4, xmm5        ; vf in m/s
 
-    ; compute acceleration: (vf - vi)/ t
+    ; compute acceleration: 
     subss xmm4, xmm3        ; (vf - vi)
     divss xmm4, xmm2        ; / t
 
     ; convert to int (RTN-TE)
     cvtss2si eax, xmm4
-    mov [rdx + r9*4], eax   
+    mov [rdx + r9*4], eax   ;
 
     inc r9
     jmp loop
@@ -52,5 +52,3 @@ loop:
 done:
     pop rbp
     ret
-
-
