@@ -1,5 +1,10 @@
 # MP2_LBYARCH
 
+DEMO VIDEO:
+[![Demo Video](https://via.placeholder.com/600x400.png?text=Click+to+watch+demo)](https://drive.google.com/file/d/1Um9NxTk9WS3W-groPBVMANN2SpoL8tzS/view) <br>
+
+(link in case that doesnt work: https://drive.google.com/file/d/1Um9NxTk9WS3W-groPBVMANN2SpoL8tzS/view?usp=sharing) <br>
+
 ***Acceleration***<br>
 Task<br>
 Implement a program that computes for the acceleration of multiple cars stored in a Y by 3 matrix. Where Y is the number of cars. <br>
