@@ -19,7 +19,7 @@ Example.
 3
 5
 
-Ave. Execution Time :
+Ave. Execution Time : <br>
 10 rows-  
 0.721, 0.043, 0.055, 0.103, 0.048, 0.039,
 0.849, 0.064, 0.830, 1.087, 1.215, 0.079,
