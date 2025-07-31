@@ -19,22 +19,26 @@ Example.<br>
 3<br>
 5
 <br><br>
-<img width="997" height="602" alt="image" src="https://github.com/user-attachments/assets/663fce9a-a877-4844-b1a2-c77d7d4a1a2e" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/95784e7c-0e0f-4a94-a6e6-8441bbb697c6" />
 
-**NOT SURE IF TAMA TO** <br>
-Ave. Execution Time <br>
+Ave. Execution Time over 30 runs<br>
 No.of Rows: <br>
 10:         <br>
-0.721 0.043 0.055 0.103 0.048 0.039 <br>
+0.1682s <br>
+
 100:        <br>
-1.562 0.04, 0.040 0.051 0.080 0.075 <br>
+0.3080s <br>
+
 1000:       <br>
-1.154 0.039 0.041 0.087 0.077 0.036 <br>
+0.2390s <br>
+
 10000:      <br>
-0.951 0.703 0.077 0.040 0.044 0.076 <br>
+0.3152s <br>
+
 100000:     <br>
-0.719 0.039 0.079 0.040 0.078 0.111 <br>
+0.1777s <br>
+
 1000000:    <br>
-0.048 0.074 0.038 0.075 0.079 0.076 <br>
+0.0650s <br>
 
 
