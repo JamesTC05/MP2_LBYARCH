@@ -1,0 +1,2 @@
+^C:\USERS\ACER\DESKTOP\C_ASSEMBLY\MP\ASMFUNC.ASM
+C:\Users\acer\Desktop\c_assembly\nasm -f win64 asmfunc.asm

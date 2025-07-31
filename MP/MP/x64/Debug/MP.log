@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\acer\Desktop\c_assembly\MP\main.c(43,16): warning C4305: 'initializing': truncation from '__int64' to 'int'
+  MP.vcxproj -> C:\Users\acer\Desktop\c_assembly\MP\x64\Debug\MP.exe
