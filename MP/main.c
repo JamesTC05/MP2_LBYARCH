@@ -10,7 +10,7 @@
 extern void acc(float* data, int* results, int rows);
 
 int main() {
-    int rows =3;
+    int rows = 3; cars
     float data[3][3] = {
         {0.0, 62.5, 10.1},
         {60.0, 122.3, 5.5},
@@ -32,6 +32,7 @@ int main() {
 
 
 
+////to test the execution given number of cars or rows(Y) and random values for vi, vf, and t will be given by the program
 //#include <stdio.h>
 //#include <stdlib.h>
 //#include <time.h>
@@ -40,7 +41,7 @@ int main() {
 //extern void acc(float* data, int* results, int rows);
 //
 //int main() {
-//    int rows = 10000; 
+//    int rows = 9027; //9027 max to print asmfunc avg exec time
 //
 //    /*printf("Enter number of rows: ");
 //    scanf_s("%d", &rows);
@@ -50,8 +51,8 @@ int main() {
 //        return 1;
 //    }*/
 //
-//    //clock_t start, end;
-//    //double elapsed_time;
+//    clock_t start, end;
+//    double elapsed_time;
 //
 //    // Allocate memory
 //    float* data = (float*)malloc(sizeof(float) * 3 * rows);
@@ -73,13 +74,13 @@ int main() {
 //        data[i * 3 + 2] = t;
 //    }
 //
-//    //start = clock();
+//    start = clock();
 //    acc(data, results, rows);
-//    //end = clock();
+//    end = clock();
 //
-//    //elapsed_time = ((double)(end - start));
+//    elapsed_time = ((double)(end - start));
 //
-//    //printf("ASMFUNC elapsed time: %f\n", elapsed_time);
+//    printf("ASMFUNC elapsed time: %f\n", elapsed_time);
 //
 //    // Output results
 //    for (int i = 0; i < rows; i++) {
@@ -90,6 +91,6 @@ int main() {
 //    free(results);
 //
 //    return 0;
-//}
+}
 
 
